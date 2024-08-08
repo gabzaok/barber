@@ -1,5 +1,3 @@
-"use client"
-
 import { Input } from "./_components/ui/input"
 import Header from "./_components/header"
 import { Button } from "./_components/ui/button"
